@@ -11,3 +11,10 @@ th, td {
 h4,h3,h2,h1{
 	color: darkblue;
 }
+
+textarea{
+	width:600px;
+	height:120px;
+	border: 2px solid #765942;
+	border-radius: 10px;
+}

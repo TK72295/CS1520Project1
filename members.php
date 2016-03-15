@@ -11,6 +11,7 @@
     <title>Our Members</title>
 
     <!-- Bootstrap CSS Code -->
+    <link href="css/mycss.css" rel="stylesheet">
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/modern-business.css" rel="stylesheet">
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
@@ -32,9 +33,7 @@
 
             <div class="col-lg-12">
                 
-                <h1 class="page-header">Our Members
-                    <small></small>
-                </h1>
+                <h1 class="page-header">Our Members</h1>
                 
                 <ol class="breadcrumb">
                     <li><a href="index.php">Home</a>
@@ -86,9 +85,13 @@
             </div>
             
             <div class="col-md-6">
+
                 <h2>Business Manager - Alex Koesarie</h2>
+                
                 <p>Alex started judo here at Pitt.  He started in the Judo 1 course in his freshman year and has been very involved over the past 2 years.  He has made fast improvements and is 
-                    currently a green belt. </p>
+                    currently a green belt. 
+                </p>
+                
             </div>
         
         </div>

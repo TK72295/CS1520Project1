@@ -38,6 +38,7 @@
 
     <!-- Header Carousel -->
     <header id="myCarousel" class="carousel slide">
+
         <!-- Indicators -->
         <ol class="carousel-indicators">
             <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
@@ -45,7 +46,7 @@
             <li data-target="#myCarousel" data-slide-to="2"></li>
         </ol>
 
-        <!-- Wrapper for slides -->
+        <!-- Image Slides -->
         <div class="carousel-inner">
             
             <div class="item active">
@@ -89,13 +90,18 @@
         <div class="row">
 
             <div class="col-md-4">
+
                 <div class="panel panel-default">
+
                     <div class="panel-heading">
-                        <h4><i class="fa fa-fw fa-check"></i>Perfect for Everybody</h4>
+                        <h4><i class="fa fa-fw fa-check"></i>Perfect for Everybody</h4> 
                     </div>
+                
                     <div class="panel-body">
                         <p>Judo is a great activity to get involved with here at Pitt. Both a martial art and an Olympic sport, 
-                            judo is practiced all over the world. Whether you want to get a great workout, learn to defend yourself, or challenge yourself with competition, judo has something for everybody.</p>
+                            judo is practiced all over the world. Whether you want to get a great workout, learn to defend yourself, or challenge yourself with competition, judo has something for everybody.
+                        </p>
+                
                         <a href="about.php" class="btn btn-default">Learn More</a>
                     </div>
                 </div>
@@ -103,9 +109,11 @@
 
             <div class="col-md-4">
                 <div class="panel panel-default">
+
                     <div class="panel-heading">
                         <h4><i class="fa fa-fw fa-gift"></i> Schedule</h4>
                     </div>
+                 
                     <div class="panel-body">
                             <p>We designed our schedule to give mat time to anybody who wants it; we have practice 7 days a week and about 30 active members. 
                                 <ul>
@@ -123,9 +131,11 @@
 
             <div class="col-md-4">
                 <div class="panel panel-default">
+                    
                     <div class="panel-heading">
                         <h4><i class="fa fa-fw fa-compass"></i> Excellent Instruction</h4>
                     </div>
+                    
                     <div class="panel-body">
                         <p>At the University of Pittsburgh, students have a unique opportunity to practice martial arts in the form of a credited course or club sport. Both are led by blackbelts with many years of competition and teaching experience who are willing to </p>
                     </div>
@@ -139,18 +149,16 @@
     
     <div class = "row">
         <div class = "col-md-12 text-center">
-            <h2>Contact Us</h2>
-            <p>If you have any questions or comments, please leave them below:</p>
-            <form action = "index.php" 
-            method = "POST"
-            id = "myform">
-
             
+            <h2>Contact Us</h2>
+            
+            <p>If you have any questions or comments, please leave them below:</p>
+            
+            <form action = "index.php" method = "POST" id = "myform">
             <input type = "submit">
-
             </form>
 
-            <textarea name="text" form="myform">Enter text here...</textarea>
+            <textarea name="text" form="myform"></textarea>
 
         </div>
     </div>

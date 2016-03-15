@@ -16,6 +16,7 @@
     <link href="css/modern-business.css" rel="stylesheet">
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="css/mycss.css" rel="stylesheet">
+
 </head>
 
 <body>
@@ -31,13 +32,14 @@
         <!-- Header -->
         <div class="row">
             <div class="col-lg-12">
-                <h1 class="page-header">About Judo
-                </h1>
+
+                <h1 class="page-header">About Judo</h1>
+                
                 <ol class="breadcrumb">
-                    <li><a href="index.php">Home</a>
-                    </li>
+                    <li><a href="index.php">Home</a></li>
                     <li class="active">About Judo</li>
                 </ol>
+
             </div>
         </div>
         <!-- /.row -->
@@ -46,20 +48,23 @@
         <div class="row">
 
             <div class="col-md-6">
-                <img class="img-responsive" src="https://www.msu.edu/~judo/images/gold.jpg">
+                <img class="img-responsive" src="https://www.msu.edu/~judo/images/gold.jpg" style="display:block; margin-right:auto; margin-left:auto">
             </div>
             
             <div class="col-md-6">
+                
                 <h2>What is Judo?</h2>
+
                 <p>Judo (meaning "gentle way") is a Japanese martial art that was created in 1882 by Dr. Jigoro Kano.
                     Dr. Kano was a jujutsu practitioner who wanted to make a martial art that could be practiced safely 
                     while still being competitive in nature.  Many of jujutsu's techniques were meant to injure or incapacitate, 
                     making it very difficult to practice effectively.  Kano distilled judo from the safer techniques of jujutsu while 
                     leaving out the more dangerous ones.  The end result was a set of 40 throws, numerous submissions, and a number of 
-                    striking techniques.</p>
+                    striking techniques.
+                </p>
                     
-                    <!-- Embedded Youtube video -->
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/8tgWlD2AgkY?list=PLsEvpqIEERMkziT-uFTxp8jzV8ld7s5Ez" frameborder="0" allowfullscreen></iframe>
+                <!-- Embedded Youtube video -->
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/8tgWlD2AgkY?list=PLsEvpqIEERMkziT-uFTxp8jzV8ld7s5Ez" frameborder="0" allowfullscreen></iframe>
             
             </div>
         </div>
@@ -69,20 +74,26 @@
 
             <div class="col-md-4 text-center">
                 <div class="thumbnail">
+                    
                     <img class="img-responsive" src="https://s-media-cache-ak0.pinimg.com/736x/9f/97/cb/9f97cbcfa91e6caa512435a77cbedfb9.jpg" alt="">
+                    
                     <div class="caption">
                         <h3>
                             <small>Judo as a Sport</small>
                         </h3>
+                        
                         <p>Judo became an Olympic sport at the 1964 Olympic Games in Tokyo, Japan.  Most judoka follow the Olympic rules 
                             which are set by the International Judo Federation.  Judo is typically performed wearing a gi, a uniform that 
                             is composed of a thick jacket and pants.  The gi enables many of grips and throws that set judo apart from wrestling 
-                            or non-gi martial arts.  In competition, there are three routes to victory.  They are: </p>  
+                            or non-gi martial arts.  In competition, there are three routes to victory.  They are: 
+                        </p>  
+
                         <ul>
                             <li>Throwing your opponent flat on their back</li>
                             <li>Pinning your opponent for 20 seconds</li>
                             <li>Causing your opponent to submit through choke or armlock</li>
                         </ul>
+
                     </div>
                 </div>
             </div>
@@ -96,7 +107,6 @@
                         
                         <h3>
                             <small>Judo as a Martial Art</small>
-                        
                         </h3>
                         
                         <p>Judo is one of the most popular martial arts in the world and has practitioners on all continents.  There are two 
@@ -112,11 +122,10 @@
             </div>
 
             <div class="col-md-4 text-center">
-
                 <div class="thumbnail">
                     
-                    <img class="img-responsive" src="http://www.ishindo.org.br/wp-content/uploads/2014/05/simbolo-kodokan-judo-sakura.jpg" alt="">
-                    
+                    <img class="img-responsive" width = "600" height="600" src="http://www.ishindo.org.br/wp-content/uploads/2014/05/simbolo-kodokan-judo-sakura.jpg" alt="">
+            
                     <div class="caption">
 
                         <h3>
