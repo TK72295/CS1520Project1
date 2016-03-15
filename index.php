@@ -88,34 +88,39 @@
 
         <!-- Marketing Icons Section -->
         <div class="row">
-
             <div class="col-md-4">
-
                 <div class="panel panel-default">
 
                     <div class="panel-heading">
+
                         <h4><i class="fa fa-fw fa-check"></i>Perfect for Everybody</h4> 
+
                     </div>
                 
                     <div class="panel-body">
+                        
                         <p>Judo is a great activity to get involved with here at Pitt. Both a martial art and an Olympic sport, 
                             judo is practiced all over the world. Whether you want to get a great workout, learn to defend yourself, or challenge yourself with competition, judo has something for everybody.
                         </p>
                 
                         <a href="about.php" class="btn btn-default">Learn More</a>
+                    
                     </div>
                 </div>
             </div>
 
             <div class="col-md-4">
                 <div class="panel panel-default">
-
                     <div class="panel-heading">
+
                         <h4><i class="fa fa-fw fa-gift"></i> Schedule</h4>
+
                     </div>
                  
                     <div class="panel-body">
+
                             <p>We designed our schedule to give mat time to anybody who wants it; we have practice 7 days a week and about 30 active members. 
+
                                 <ul>
                                     <li>Monday 7:00 - 9:00 AM</li> 
                                     <li>Tuesday 2:30 - 3:30 PM </li> 
@@ -124,6 +129,8 @@
                                     <li>Friday: 7:00 - 9:00 AM</li> 
                                     <li>Saturday 1:00 - 3:00 PM</li> 
                                     <li>Sunday 12:00 - 2:00 PM</li> 
+                                </ul>
+
                             </p>
                     </div>
                 </div>
@@ -133,11 +140,17 @@
                 <div class="panel panel-default">
                     
                     <div class="panel-heading">
+
                         <h4><i class="fa fa-fw fa-compass"></i> Excellent Instruction</h4>
+
                     </div>
                     
                     <div class="panel-body">
-                        <p>At the University of Pittsburgh, students have a unique opportunity to practice martial arts in the form of a credited course or club sport. Both are led by blackbelts with many years of competition and teaching experience who are willing to </p>
+
+                        <p>At the University of Pittsburgh, students have a unique opportunity to practice martial arts in the form of a credited course or club sport. Both are led by blackbelts with many years of competition and 
+                            teaching experience who are willing to work with people of all experience levels and interests.
+                        </p>
+
                     </div>
                 </div>
             </div>
@@ -155,7 +168,9 @@
             <p>If you have any questions or comments, please leave them below:</p>
             
             <form action = "index.php" method = "POST" id = "myform">
-            <input type = "submit">
+
+                <input type = "submit">
+            
             </form>
 
             <textarea name="text" form="myform"></textarea>
